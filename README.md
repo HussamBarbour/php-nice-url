@@ -1,5 +1,4 @@
 # php-nice-url
-How to make nice links compatible with search engines with support for Arabic
 الشرح تدخل إلى الدالة 4 قيم :
 
 1- المتغير $input نوعه string هو عنوان الصفحة الذي سيحول إلى اسم لطيف.
